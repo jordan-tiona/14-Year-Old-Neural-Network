@@ -3,7 +3,7 @@ package tora;
 import java.util.Scanner;
 import java.util.Random;
 
-//This is a direct port of a back propagating NN I made in FreeBasic back in 2005, I was 14 years old at the
+//This is a direct port of a back propagating NN I made in FreeBasic back in 2005, I was 15 years old at the
 //time so it's very minimal with one goal in mind, determining 12x12 digits 0-9
 
 public class BPNN {
